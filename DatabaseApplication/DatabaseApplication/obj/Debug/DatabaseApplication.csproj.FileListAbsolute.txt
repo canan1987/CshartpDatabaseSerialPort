@@ -1,0 +1,10 @@
+C:\FutApsol\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.csprojAssemblyReference.cache
+C:\FutApsol\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.Form1.resources
+C:\FutApsol\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.Properties.Resources.resources
+C:\FutApsol\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.csproj.GenerateResource.cache
+C:\FutApsol\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.csproj.CoreCompileInputs.cache
+C:\FutApsol\DatabaseApplication\DatabaseApplication\bin\Debug\DatabaseApplication.exe.config
+C:\FutApsol\DatabaseApplication\DatabaseApplication\bin\Debug\DatabaseApplication.exe
+C:\FutApsol\DatabaseApplication\DatabaseApplication\bin\Debug\DatabaseApplication.pdb
+C:\FutApsol\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.exe
+C:\FutApsol\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.pdb
